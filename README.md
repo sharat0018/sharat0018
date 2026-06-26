@@ -1,127 +1,21 @@
-```md
-# 👋 Hi, I'm Sharat
+# 💫 About Me:
+### 👋 Introduction<br><br>I'm **Sharat**, a Computer Science Engineering student, Full Stack Developer, AI enthusiast, and Cybersecurity Researcher. I enjoy building scalable software, secure web applications, and intelligent AI systems that solve real-world problems. My work spans full-stack development, cloud-native applications, cybersecurity platforms, and multi-agent AI systems, with a strong emphasis on clean architecture, performance, and security.<br><br>---<br><br>## 🚀 About Me<br><br>* 🎓 Computer Science Engineering Student<br>* 💻 Full Stack Developer specializing in modern web technologies<br>* 🤖 Building AI-powered applications and autonomous agent systems<br>* 🔐 Passionate about Cybersecurity, Secure Software Development, and CTFs<br>* ☁️ Experienced with cloud-native architectures and scalable backend systems<br>* 🏗️ Interested in Software Architecture, System Design, and DevSecOps<br>* 🚀 Founder & Lead Developer of multiple innovative software projects<br>* 🌱 Continuously learning emerging technologies and engineering best practices<br>* 🤝 Open to collaborating on impactful open-source and AI projects<br>* 🎯 Goal: Build secure, scalable, and intelligent products that create real-world impact.<br>
 
-**Full Stack Engineer | AI Systems Builder | Cybersecurity Researcher**
 
-I'm a Computer Science Engineering student passionate about designing scalable software systems, building AI-powered applications, and advancing cybersecurity through practical research and engineering.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/b-sharat) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@BODDETI SHARAT) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tlboss6969@gmail.com) 
 
-My work focuses on combining modern software architecture, cloud technologies, artificial intelligence, and secure development practices to create production-ready solutions that solve real-world problems. I enjoy transforming ideas into reliable products with clean architecture, high performance, and strong security foundations.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=sharat0018&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=sharat0018&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sharat0018&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Over the past few years, I have worked on projects spanning enterprise cybersecurity platforms, AI-driven financial intelligence, multi-vendor commerce, educational technology, and intelligent automation systems. Alongside software development, I actively participate in hackathons, Capture The Flag (CTF) competitions, and security research to continuously strengthen my engineering and problem-solving skills.
-
-I believe that great software is not measured by the number of features it offers but by its scalability, maintainability, reliability, and the value it creates for users. Every project I build is an opportunity to learn, improve, and engineer solutions that are both technically sound and impactful.
-
-## What I Build
-
-- Enterprise-grade Web Applications
-- AI & Multi-Agent Systems
-- Cybersecurity Platforms
-- Secure Backend Architectures
-- Cloud-Native Applications
-- Full Stack SaaS Products
-- Developer Tools
-- Intelligent Automation Systems
-
-## Current Areas of Interest
-
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Multi-Agent Architectures
-- Software Architecture & System Design
-- DevSecOps
-- Offensive & Defensive Security
-- Distributed Systems
-- Cloud Computing
-- Open Source Development
-
-## Engineering Principles
-
-- Security by Design
-- Clean Architecture
-- Performance First
-- Scalability Matters
-- Simplicity Over Complexity
-- Continuous Learning
-- Automation Wherever Possible
-- Documentation as a Feature
-
-## Featured Projects
-
-### 🛡 RoBlockSec
-A centralized cybersecurity platform designed to connect organizations and security researchers through AI-powered bug bounty management, Capture The Flag competitions, collaborative workspaces, and real-time security analytics.
-
-### ⚡ Nirvana
-A modular security research framework focused on intelligent vulnerability assessment, automated security workflows, and modern offensive security research.
-
-### 📈 Dhan AI
-An AI-powered financial intelligence platform providing market insights, conversational financial assistance, and intelligent investment analytics.
-
-### 🛒 VendorHub
-A scalable multi-vendor e-commerce platform integrating modern frontend technologies, AI capabilities, and cloud-native architecture.
-
-### 🎓 VidyaSetu
-An AI-assisted educational analytics platform developed to improve academic performance monitoring and reduce student dropout rates through data-driven insights.
-
-### 🚀 TAJAS
-An intelligent spacecraft monitoring and predictive failure prevention system leveraging machine learning for autonomous decision support.
-
-## Technical Focus
-
-Frontend Development
-
-- React
-- Next.js
-- React Native
-- TypeScript
-- Tailwind CSS
-- Three.js
-
-Backend Development
-
-- Node.js
-- Express.js
-- FastAPI
-- Flask
-
-Databases
-
-- MongoDB
-- PostgreSQL
-- Firebase
-- MySQL
-
-Cloud & DevOps
-
-- Docker
-- Firebase
-- Vercel
-- GitHub Actions
-
-Artificial Intelligence
-
-- OpenAI API
-- Gemini API
-- Groq
-- Ollama
-- Retrieval-Augmented Generation (RAG)
-- Local LLM Deployment
-
-Cybersecurity
-
-- Web Application Security
-- Secure Software Development
-- API Security
-- OWASP Top 10
-- Vulnerability Assessment
-- CTF Challenges
-
-## Beyond Coding
-
-Outside of development, I enjoy exploring emerging technologies, contributing to open-source communities, participating in technical competitions, and continuously expanding my understanding of software engineering and cybersecurity.
-
-My long-term goal is to build intelligent software platforms that are secure, scalable, and capable of making a meaningful impact across industries.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=sharat0018&icon=6&color=0)](https://visitcount.itsvg.in)
 
-> *"Build software that is scalable, secure, maintainable, and capable of solving real-world problems."*
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
