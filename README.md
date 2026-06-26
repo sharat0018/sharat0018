@@ -1,35 +1,40 @@
-```md
 <div align="center">
 
 # Hi 👋, I'm Sharat
 
-### 🚀 Full Stack Developer | 🔐 Cybersecurity Researcher | 🤖 AI Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Applications;Cybersecurity+Researcher;AI+%26+Multi-Agent+Systems;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
+### Full-Stack Developer | Cybersecurity Researcher | AI Engineer
 
 <p>
-I'm a Computer Science Engineering student passionate about building scalable software, AI-powered applications, and cybersecurity platforms. I enjoy designing secure, production-grade systems that combine modern software engineering with practical security research.
+  I build secure, scalable, and intelligent digital products that blend software engineering, cybersecurity, and applied AI.
 </p>
 
----
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&width=720&lines=Building+secure+and+scalable+products;Exploring+AI+Agents+and+LLM+systems;Designing+modern+cybersecurity+solutions;Turning+ideas+into+production-ready+software" alt="Typing SVG" />
+</p>
 
-## 👨‍💻 About Me
+</div>
 
-🔭 Currently building **RoBlockSec** — Enterprise Cybersecurity Platform
+## About Me
 
-🛡 Developing **Nirvana** — Intelligent Security Assessment Framework
+I’m a Computer Science Engineering student focused on building production-grade software with a strong foundation in security, system design, and AI.
 
-🤖 Exploring **LLMs, AI Agents, RAG Systems & Local AI**
+- 🔭 Currently building **RoBlockSec** — an enterprise cybersecurity platform
+- 🛡 Developing **Nirvana** ��� an intelligent security assessment framework
+- 🤖 Exploring **LLMs, AI agents, RAG systems, and local AI workflows**
+- 🌱 Learning **cloud architecture, DevSecOps, and distributed systems**
+- 🏆 Active in **hackathons, CTFs, and open source**
+- 💡 Driven by the challenge of solving real-world problems with thoughtful engineering
 
-🌱 Learning **Cloud Architecture, DevSecOps & Distributed Systems**
+## Core Expertise
 
-🏆 Active in **Hackathons, CTFs & Open Source**
+- Full-stack web development
+- Cybersecurity and secure application design
+- AI integrations and automation
+- API development and system architecture
+- Cloud-native and containerized applications
+- Modern UI development and product engineering
 
-💡 Passionate about solving real-world problems with technology.
-
----
-
-## ⚙️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -37,23 +42,23 @@ I'm a Computer Science Engineering student passionate about building scalable so
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-### Database
+### Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
@@ -66,100 +71,70 @@ I'm a Computer Science Engineering student passionate about building scalable so
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 
-### AI & Cybersecurity
+### AI & Security
 
 - OpenAI API
 - Gemini API
 - Groq
 - Ollama
 - Local LLMs
-- RAG Systems
-- Vector Databases
+- RAG systems
+- Vector databases
 - OWASP Top 10
-- Web Security
-- API Security
-- Secure Software Development
-- CTF Challenges
+- Web security
+- API security
+- Secure software development
+- CTF challenges
 
----
+## Featured Projects
 
-# 🚀 Featured Projects
+### RoBlockSec
+Enterprise cybersecurity ecosystem designed to connect organizations and security researchers through AI-powered bug bounty management, CTF competitions, collaborative workspaces, and security analytics.
 
-## 🛡 RoBlockSec
-Enterprise-grade cybersecurity ecosystem connecting organizations and security researchers through AI-powered Bug Bounty management, CTF competitions, collaborative workspaces, and security analytics.
+### Nirvana
+Advanced offensive security research platform with modular architecture, intelligent payload orchestration, workflow automation, and vulnerability assessment capabilities.
 
----
-
-## ⚡ Nirvana
-Advanced offensive security research platform featuring modular architecture, intelligent payload orchestration, workflow automation, and vulnerability assessment.
-
----
-
-## 📈 Dhan AI
+### Dhan AI
 AI-powered financial intelligence platform delivering investment insights, market analysis, and conversational financial assistance.
 
----
+### VendorHub
+Modern AI-integrated multi-vendor e-commerce platform built with Next.js and scalable backend architecture.
 
-## 🛒 VendorHub
-Modern AI-integrated multi-vendor e-commerce platform built using Next.js and scalable backend architecture.
+### VidyaSetu
+Education analytics platform that uses AI to improve student performance tracking and support dropout reduction.
 
----
-
-## 🎓 VidyaSetu
-Education analytics platform using AI to improve student performance tracking and reduce dropout rates.
-
----
-
-## 🚀 TAJAS
+### TAJAS
 AI-based autonomous spacecraft monitoring and predictive failure prevention system.
 
----
+## Current Focus
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sharat0018&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharat0018&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=sharat0018&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 Current Focus
-
-- Enterprise Software Architecture
-- Cybersecurity Research
-- AI Agents & Multi-Agent Systems
-- Large Language Models
+- Enterprise software architecture
+- Cybersecurity research
+- AI agents and multi-agent systems
+- Large language models
 - DevSecOps
-- Cloud Native Applications
-- Open Source Contributions
+- Cloud-native applications
+- Open source contribution
 
----
+## GitHub Stats
 
-# 🤝 Let's Connect
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharat0018&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharat0018&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-🌐 Portfolio: https://sharat-olive.vercel.app
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sharat0018&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-💻 GitHub: https://github.com/sharat0018
+## Let's Connect
 
-📧 Email: your-email@example.com
-
----
+- 🌐 Portfolio: https://sharat-olive.vercel.app
+- 💻 GitHub: https://github.com/sharat0018
+- 📧 Email: your-email@example.com
 
 <div align="center">
 
-### "Build software that is scalable, secure, and solves real-world problems."
-
-⭐ Thanks for visiting my profile!
+### Building software that is secure, scalable, and meaningful.
 
 </div>
-```
