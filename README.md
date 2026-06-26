@@ -1,29 +1,19 @@
-<div align="center">
+# Sharat
 
-# Hi 👋, I'm Sharat
+**Full-Stack Developer | Cybersecurity Researcher | AI Engineer**
 
-### Full-Stack Developer | Cybersecurity Researcher | AI Engineer
-
-<p>
-  I build secure, scalable, and intelligent digital products that blend software engineering, cybersecurity, and applied AI.
-</p>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00C2FF&center=true&vCenter=true&width=720&lines=Building+secure+and+scalable+products;Exploring+AI+Agents+and+LLM+systems;Designing+modern+cybersecurity+solutions;Turning+ideas+into+production-ready+software" alt="Typing SVG" />
-</p>
-
-</div>
+I build secure, scalable, and intelligent digital products at the intersection of software engineering, cybersecurity, and applied AI.
 
 ## About Me
 
-I’m a Computer Science Engineering student focused on building production-grade software with a strong foundation in security, system design, and AI.
+I’m a Computer Science Engineering student focused on production-grade software with a strong interest in system design, security, and AI-driven experiences.
 
-- 🔭 Currently building **RoBlockSec** — an enterprise cybersecurity platform
-- 🛡 Developing **Nirvana** ��� an intelligent security assessment framework
+- 🔭 Building **RoBlockSec** — an enterprise cybersecurity platform
+- 🛡 Developing **Nirvana** — an intelligent security assessment framework
 - 🤖 Exploring **LLMs, AI agents, RAG systems, and local AI workflows**
 - 🌱 Learning **cloud architecture, DevSecOps, and distributed systems**
 - 🏆 Active in **hackathons, CTFs, and open source**
-- 💡 Driven by the challenge of solving real-world problems with thoughtful engineering
+- 💡 Motivated by solving real-world problems with thoughtful engineering
 
 ## Core Expertise
 
@@ -89,22 +79,22 @@ I’m a Computer Science Engineering student focused on building production-grad
 ## Featured Projects
 
 ### RoBlockSec
-Enterprise cybersecurity ecosystem designed to connect organizations and security researchers through AI-powered bug bounty management, CTF competitions, collaborative workspaces, and security analytics.
+An enterprise cybersecurity ecosystem connecting organizations and security researchers through AI-powered bug bounty management, CTF competitions, collaborative workspaces, and security analytics.
 
 ### Nirvana
-Advanced offensive security research platform with modular architecture, intelligent payload orchestration, workflow automation, and vulnerability assessment capabilities.
+An advanced offensive security research platform with modular architecture, intelligent payload orchestration, workflow automation, and vulnerability assessment capabilities.
 
 ### Dhan AI
-AI-powered financial intelligence platform delivering investment insights, market analysis, and conversational financial assistance.
+An AI-powered financial intelligence platform delivering investment insights, market analysis, and conversational financial assistance.
 
 ### VendorHub
-Modern AI-integrated multi-vendor e-commerce platform built with Next.js and scalable backend architecture.
+A modern AI-integrated multi-vendor e-commerce platform built with Next.js and scalable backend architecture.
 
 ### VidyaSetu
-Education analytics platform that uses AI to improve student performance tracking and support dropout reduction.
+An education analytics platform that uses AI to improve student performance tracking and support dropout reduction.
 
 ### TAJAS
-AI-based autonomous spacecraft monitoring and predictive failure prevention system.
+An AI-based autonomous spacecraft monitoring and predictive failure prevention system.
 
 ## Current Focus
 
@@ -116,25 +106,12 @@ AI-based autonomous spacecraft monitoring and predictive failure prevention syst
 - Cloud-native applications
 - Open source contribution
 
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sharat0018&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharat0018&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sharat0018&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ## Let's Connect
 
 - 🌐 Portfolio: https://sharat-olive.vercel.app
 - 💻 GitHub: https://github.com/sharat0018
 - 📧 Email: your-email@example.com
 
-<div align="center">
+---
 
-### Building software that is secure, scalable, and meaningful.
-
-</div>
+> Building software that is secure, scalable, and meaningful.
